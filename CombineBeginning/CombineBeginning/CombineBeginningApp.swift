@@ -1,14 +1,13 @@
-//
-//  CombineBeginningApp.swift
-//  CombineBeginning
-//
-//  Created by CMDB-127710 on 22.11.2022.
-//
-
 import SwiftUI
+import Firebase
 
 @main
 struct CombineBeginningApp: App {
+
+    init() {
+        FirebaseApp.configure()
+    }
+
     var body: some Scene {
         WindowGroup {
             ContentView()
