@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>648782740233-vm5d37qijbeogk9tupudresvn9rj631m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.648782740233-vm5d37qijbeogk9tupudresvn9rj631m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBo2UVkt07jAYi73t_ZeHOEXs_dAqWiC8E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>648782740233</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nikita.org.CombineBeginning</string>
+	<key>PROJECT_ID</key>
+	<string>combinebeginning</string>
+	<key>STORAGE_BUCKET</key>
+	<string>combinebeginning.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:648782740233:ios:122d790410e2583a2eb1d8</string>
+</dict>
+</plist>
